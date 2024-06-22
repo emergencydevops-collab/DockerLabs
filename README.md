@@ -1,2 +1,15 @@
-# DockerLabs
-Welcome to DockerLabs, your ultimate resource for mastering Docker! Whether you're a beginner looking to understand the basics or an experienced developer seeking advanced knowledge, DockerLabs has something for everyone.
+# Docker Fundamentals
+
+## What is covered as part of Docker Fundamentals?
+1. Docker Introduction
+2. Docker Installation
+3. Flow-1: Pull from Docker Hub and Run Docker Image locally.
+4. Flow-2: Build new Docker Image and Run locally and Push to Docker Hub.
+5. Essential Docker Commands
+
+## Docker Images used
+| Application Name                 | Docker Image Name                          |
+| ------------------------------- | --------------------------------------------- |
+|  Nginx  | nginx |
+| Customized Nginx  | stacksimplify/mynginx_image1 |
+| Simple SpringBoot HelloWorld | stacksimplify / dockerintro-springboot-helloworld-rest-api |
